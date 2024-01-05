@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "727046977451",
+    "project_id": "pamterakhir",
+    "storage_bucket": "pamterakhir.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727046977451:android:d0f9b742598eaea75484ee",
+        "android_client_info": {
+          "package_name": "com.example.pamterakhir"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT1j3d-dKKyUTWcsGt3Dp4eQnlW4qCXPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
