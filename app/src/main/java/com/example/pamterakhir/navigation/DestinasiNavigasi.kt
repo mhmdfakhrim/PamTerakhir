@@ -1,4 +1,9 @@
 package com.example.pamterakhir.navigation
 
-class DestinasiNavigasi {
+interface DestinasiNavigasi {
+
+    val route: String
+
+    val titleRes: String
+
 }
