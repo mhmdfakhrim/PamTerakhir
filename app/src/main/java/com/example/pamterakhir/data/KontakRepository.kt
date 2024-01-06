@@ -2,6 +2,7 @@ package com.example.pamterakhir.data
 
 import android.content.ContentValues
 import android.util.Log
+import com.example.pamterakhir.model.Kontak
 import com.google.firebase.firestore.FirebaseFirestore
 import com.google.firebase.firestore.Query
 import kotlinx.coroutines.Dispatchers
