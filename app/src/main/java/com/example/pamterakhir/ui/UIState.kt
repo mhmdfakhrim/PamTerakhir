@@ -1,7 +1,5 @@
 package com.example.pamterakhir.ui
 
-import com.example.pamterakhir.model.Kontak
-
 data class UIStateKontak(
     val detailKontak: DetailKontak = DetailKontak()
 )
